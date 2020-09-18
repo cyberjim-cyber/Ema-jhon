@@ -1,0 +1,15 @@
+.product{
+
+    display:flex;border-bottom:1px solid lightgrey;margin-bottom: 5px;padding-bottom: 5px;
+}
+
+.product h4{
+
+    color:blue;font-weight: 400;
+}
+
+
+.main-button{
+
+    background-color: goldenrod;width:140px;height:30px;border-right: 5px;
+}
